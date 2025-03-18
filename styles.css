@@ -680,8 +680,7 @@ a .projectLink {
     }
     
  .svg-background {
-        position: absolute;
-        z-index: 0;
+         display: none;
     }
 }
 

@@ -157,7 +157,7 @@ footer a {
 
 #fontEndBanner_title2{
     margin-top: 5px;
-    z-index: 1 !important;
+    z-index: 0 !important;
 }
 
 /* <!------------ Section2 ------------> */

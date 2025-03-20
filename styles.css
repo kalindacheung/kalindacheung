@@ -623,7 +623,15 @@ a .projectLink {
 }
 
 
-
+.overlapLeftProject1 img{
+    width: 90%;
+}
+.overlapRightProject1 img{
+    width: 90%;
+}
+.projectOnlyOne img{
+    width: 100%;
+}
 
 
 
@@ -678,10 +686,7 @@ a .projectLink {
     #fontEndBanner h2  {
         font-size: 50px !important;
     }
-    
- .svg-background {
-         display: none;
-    }
+
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -731,6 +736,15 @@ a .projectLink {
 
     .section3Icon h1, #experience h1, #contact h1 {
         font-size: 40px;
+    }
+    .svg-background {
+        display: none;
+    }
+    #projectDetails h1{
+        font-size: 60px;
+    }
+    .projectTitle{
+        font-size: 35px;
     }
 
 }
